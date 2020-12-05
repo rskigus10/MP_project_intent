@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Intentapp</string>
+    <string name="btn_profile">Profile</string>
+    <string name="btn_product">Produk</string>
+    <string name="btn_parcelable">Activity With Parcelable</string>
+    <string name="btn_implicit">Implicit Intent</string>
+    <string name="btn_result">Intent With Result</string>
+    <string name="profile_name">RIZKI GUSMIANTO</string>
+    <string name="email_profil">rskigus10@gmail.com</string>
+    <string name="count_pencapaian">174</string>
+    <string name="profile_pencapaian">Pencapaian</string>
+    <string name="count_teman">100</string>
+    <string name="profile_teman">Teman</string>
+    <string name="btn_back">Kembali</string>
+    <string name="lbl_produk">Produk</string>
+    <string name="text_nama">TextView</string>
+    <string name="lbl_brt">Berat</string>
+    <string name="txt_berat">TextView</string>
+    <string name="lbl_detail">Detail</string>
+    <string name="txt_detail">TextView</string>
+    <string name="btn_kembail">Kembali</string>
+</resources>
