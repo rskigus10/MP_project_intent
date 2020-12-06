@@ -9,11 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Intentapp">
-        <activity android:name=".ProdukActivity"></activity>
+        <activity android:name=".ResultActivity"></activity>
+        <activity android:name=".ParcleActivity"></activity>
+        <activity android:name=".ProdukActivity" />
         <activity android:name=".ProfilActivity" />
-        <activity android:name=".ProfileActivity" />
-        <activity android:name=".Profil_Activity" />
-        <activity android:name=".MoveActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
